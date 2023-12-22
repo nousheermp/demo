@@ -1,0 +1,12 @@
+configure git
+-------------
+git config--globel user name"username"
+git config--globel user.email"email"
+
+pushe commands
+------------
+git init
+git add.
+git remote add orgin"url"
+git commit-m-"committ label"
+git push-u origin master
